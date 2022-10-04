@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hallo nama saya nawaf, hacktiv8
+=======
+Hallo nama saya nawaf, edit di git hub
+hallo
+>>>>>>> 67972ad95d21ce9ef13e773db33d17665099e8d3
